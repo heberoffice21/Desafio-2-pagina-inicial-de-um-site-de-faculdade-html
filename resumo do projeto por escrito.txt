@@ -1,0 +1,5 @@
+nesse projeto fiz um site com tema de faculdade todo feito em html, o site contem:
+
+-pagina inicial (com menus, logo, foto central, possui formulario.
+
+-Ele foi feito usando tabelas como forma de orientar-se nas localizações de cada seção.
